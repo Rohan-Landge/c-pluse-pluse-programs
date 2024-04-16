@@ -23,7 +23,7 @@ if(sub1>=45||sub2>=45,sub3>=45)
 else
   cout<<"\nyou failed the exam better luck next time" ;
 }
-}
+};
 void main()
 {
 Student s;
